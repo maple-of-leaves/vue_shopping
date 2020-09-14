@@ -1,0 +1,38 @@
+{
+    "details":[
+        
+            {
+                "id":1,
+                "img":"./img/nuotai03.jpg",
+                "title":"诺泰护肤必备神器",
+                "originprice":536,
+                "price":200.00
+               
+            },
+            {
+                "id":1,
+                "img":"./img/nuotai01.jpg",
+                "title":"七喜柠檬碳酸饮料",
+                "originprice":536,
+                "price":200.00
+               
+            },
+            {
+                "id":1,
+                "img":"./img/nuotai04.jpg",
+                "title":"八马茶叶",
+                "originprice":536,
+                "price":200.00
+               
+            },
+            {
+                "id":1,
+                "img":"./img/nuotai03.jpg",
+                "title":"lea男装",
+                "originprice":536,
+                "price":200.00
+               
+            }
+        
+    ]
+}

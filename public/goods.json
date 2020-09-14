@@ -1,0 +1,43 @@
+{
+    "swiper": [
+        "http://localhost:8080/img/slide01.png",
+        "http://localhost:8080/img/slide02.png",
+        "http://localhost:8080/img/slide03.png",
+        "http://localhost:8080/img/slide04.png"
+    ],
+    "goods": [
+
+        {
+            "id":1,
+            "img":"./img/bama01.jpg",
+            "title":"诺泰护肤必备神器",
+            "originprice":536,
+            "price":200.00
+           
+        },
+        {
+            "id":1,
+            "img":"./img/bama02.jpg",
+            "title":"七喜柠檬碳酸饮料",
+            "originprice":536,
+            "price":200.00
+           
+        },
+        {
+            "id":1,
+            "img":"./img/bama03.jpg",
+            "title":"八马茶叶",
+            "originprice":536,
+            "price":200.00
+           
+        },
+        {
+            "id":1,
+            "img":"./img/bama04.jpg",
+            "title":"lea男装",
+            "originprice":536,
+            "price":200.00
+           
+        }
+    ]
+}
